@@ -81,6 +81,7 @@ npm run dev
 DATABASE_URL=mongodb://localhost:27017/calorie-tracker
 NEXT_PUBLIC_API_URL=http://localhost:3000/api
 JWT_SECRET=your_jwt_secret
+```
 
 ## 📌 Планы на будущее
 
@@ -108,6 +109,6 @@ git push origin feature/my-feature
 ```
 
 ## 📄 Лицензия
-Проект распространяется под лицензией MIT. Подробнее в [./license]LICENSE.
+Проект распространяется под лицензией MIT. Подробнее в (./license)LICENSE.
 
 <p align="center"> <b>Сделано с ❤️ by <a href="https://github.com/MuratOfficial">MuratOfficial</a></b> </p> ```
